@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{8D93F3F3-77FA-F3DF-208A-B8A177A76CAB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Menu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SpawnPowerup.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/Music.cs" />
+      <File FileName="Assets/Scripts/MuteManager.cs" />
+      <File FileName="Assets/Scripts/PlayerController.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="43" Column="31" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="28" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="13a9c89d-0f9c-4680-a1e5-96afe7eaeced" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
